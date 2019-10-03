@@ -1,3 +1,9 @@
+commit c367cd6ae62565bed5539542495e19f48bf95534
+Author: Alex Tchouangwa <atchouangwa@mymail.mines.edu>
+Date:   Wed Oct 2 21:43:13 2019 -0600
+
+    Changed eye color to black, head color to orange, increased head size, changed cat sound to rawr, changed eye shape
+
 commit 58de12251dfee9a119166439f539002b82fcd0ce
 Author: Adam Sandstedt <adam.sandstedt@gmail.com>
 Date:   Wed Oct 2 15:27:36 2019 -0600
