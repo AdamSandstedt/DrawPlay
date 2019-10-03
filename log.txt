@@ -1,0 +1,17 @@
+commit 58de12251dfee9a119166439f539002b82fcd0ce
+Author: Adam Sandstedt <adam.sandstedt@gmail.com>
+Date:   Wed Oct 2 15:27:36 2019 -0600
+
+    modified .gitignore to include .classpath and .project
+
+commit 74723b3ae286295dbcf5547129fccc78d465c47a
+Author: Adam Sandstedt <adam.sandstedt@gmail.com>
+Date:   Wed Oct 2 15:22:12 2019 -0600
+
+    added the initial files downloaded from Canvas and added .gitignore
+
+commit a7a814fadefc806b662d4a5d3c181658cab89d9c
+Author: Adam Sandstedt <adam.sandstedt@gmail.com>
+Date:   Wed Oct 2 11:05:13 2019 -0600
+
+    Initial commit
